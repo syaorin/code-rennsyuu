@@ -1,0 +1,58 @@
+body{
+    font-family: "Helvetica Neue",
+    Arial,
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    Meiryo,
+    sans-serif;
+    width: 600px;
+    margin: auto;
+}
+
+h1{
+    color: #C0C0C0;
+    font-size: 150px;
+    letter-spacing: 0.2em;
+    writing-mode: vertical-rl;
+}
+
+/* header{
+    writing-mode: vertical-rl;   
+} */
+
+
+
+footer{
+    text-align: center;
+    writing-mode: vertical-rl;
+    width: 600px;
+    background-color: #D3D3D3;
+}
+.goroku{
+    color: #FFFFFF;
+    font-size: 150px;
+    writing-mode: vertical-rl;
+    margin: 0;
+}
+
+/* .obi{
+
+} */
+.obibunn1{
+    font-family: 'HGPｺﾞｼｯｸE';
+    line-height: 2em;
+}
+.obibunn2{
+    font-size: 30px;
+    font-weight: bold;
+}
+img{
+    width: 600px;
+    height: auto;
+}
+
+.obibunn3{
+    font-size: 16px;
+    font-family: 'HGSｺﾞｼｯｸM';
+    line-height: 1.5em;
+}

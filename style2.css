@@ -1,0 +1,18 @@
+@keyframes gazou{
+    from{margin-left: 0px;}
+    to{margin-left: 200px;}
+   
+   }
+   .test{
+       animation: 3s linear infinite moveX; 
+   }
+
+   body{
+    font-family: "Helvetica Neue",
+    Arial,
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    Meiryo,
+    sans-serif;
+
+}
