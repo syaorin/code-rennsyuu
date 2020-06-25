@@ -12,8 +12,11 @@ body{
 h1{
     color: #C0C0C0;
     font-size: 150px;
-    letter-spacing: 0.2em;
+    /* letter-spacing: 0.2em; */
     writing-mode: vertical-rl;
+  display: inline-block;
+  /* height: 200px; */
+  text-align: left;
 }
 
 /* header{
@@ -32,7 +35,9 @@ footer{
     color: #FFFFFF;
     font-size: 150px;
     writing-mode: vertical-rl;
-    margin: 0;
+    font-family: 'HGPｺﾞｼｯｸE';
+    letter-spacing: 0.1em;
+    
 }
 
 /* .obi{
@@ -55,4 +60,8 @@ img{
     font-size: 16px;
     font-family: 'HGSｺﾞｼｯｸM';
     line-height: 1.5em;
+}
+
+.syasinn{
+    text-align: center;
 }
