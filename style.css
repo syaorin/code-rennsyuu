@@ -12,18 +12,14 @@ body{
 h1{
     color: #C0C0C0;
     font-size: 150px;
-    /* letter-spacing: 0.2em; */
     writing-mode: vertical-rl;
   display: inline-block;
-  /* height: 200px; */
   text-align: left;
+  position: absolute;
+  top: 30%;
+    left: 35%;
+    transform: translate(-50%, -50%);
 }
-
-/* header{
-    writing-mode: vertical-rl;   
-} */
-
-
 
 footer{
     text-align: center;
@@ -31,18 +27,16 @@ footer{
     width: 600px;
     background-color: #D3D3D3;
 }
+
 .goroku{
     color: #FFFFFF;
     font-size: 150px;
     writing-mode: vertical-rl;
     font-family: 'HGPｺﾞｼｯｸE';
     letter-spacing: 0.1em;
-    
 }
 
-/* .obi{
 
-} */
 .obibunn1{
     font-family: 'HGPｺﾞｼｯｸE';
     line-height: 2em;
@@ -64,4 +58,5 @@ img{
 
 .syasinn{
     text-align: center;
+    position: relative;
 }
