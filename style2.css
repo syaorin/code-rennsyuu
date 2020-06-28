@@ -10,8 +10,68 @@
 
 }
 
+h1{
+    color: #C0C0C0;
+    font-size: 150px;
+    writing-mode: vertical-rl;
+  display: inline-block;
+  text-align: left;
+  position: absolute;
+    left: 35%;
+    transform: translate(-50%, 11%);
+    letter-spacing: 30PX;
+}
+
+footer{
+    text-align: center;
+    writing-mode: vertical-rl;
+    width: 600px;
+    background-color: #D3D3D3;
+    position: relative;
+    bottom: 200px;
+}
+
+.goroku{
+    color: #FFFFFF;
+    font-size: 150px;
+    writing-mode: vertical-rl;
+    /* font-family: 'HGPｺﾞｼｯｸE'; */
+    /* letter-spacing: 0.1em; */
+    font-weight: bold;
+    margin: 0;
+    letter-spacing: 30px;
+    padding-top: 30px;
+    
+}
+
+
+.obibunn1{
+    font-family: 'HGPｺﾞｼｯｸE';
+    line-height: 2em;
+}
+.obibunn2{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.icon{
+    width: 600px;
+    height: auto;
+}
+
+.obibunn3{
+    font-size: 16px;
+    font-family: 'HGSｺﾞｼｯｸM';
+    line-height: 1.5em;
+}
+
+.syasinn{
+    text-align: center;
+    position: relative;
+}
+
 img{
-    width: 700px;
+    width: 600px;
     height: auto;
     display: flex;
 }
