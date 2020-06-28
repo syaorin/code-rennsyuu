@@ -38,7 +38,9 @@ footer{
     /* letter-spacing: 0.1em; */
     font-weight: bold;
     margin: 0;
-    letter-spacing: 50px
+    letter-spacing: 30px;
+    padding-top: 30px;
+    
 }
 
 
