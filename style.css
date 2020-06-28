@@ -18,7 +18,7 @@ h1{
   position: absolute;
     left: 35%;
     transform: translate(-50%, 11%);
-    letter-spacing: 100PX;
+    letter-spacing: 30PX;
 }
 
 footer{
@@ -26,6 +26,8 @@ footer{
     writing-mode: vertical-rl;
     width: 600px;
     background-color: #D3D3D3;
+    position: relative;
+    bottom: 200px;
 }
 
 .goroku{
@@ -36,6 +38,7 @@ footer{
     /* letter-spacing: 0.1em; */
     font-weight: bold;
     margin: 0;
+    letter-spacing: 50px
 }
 
 
